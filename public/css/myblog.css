@@ -1,0 +1,20 @@
+#notesApp {
+    margin: 0;
+    margin-top: 0;
+    background-image: url(https://source.unsplash.com/1600x900/?nature,mountain);
+    /* Full height */
+    height: 100%;
+    padding: 0;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+#notesMain{
+    margin-top: 8%;
+}
+#notes{
+  page-break-before: always;
+}
+  
+
